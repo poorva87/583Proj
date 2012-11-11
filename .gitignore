@@ -1,0 +1,6 @@
+pager_exec
+app
+*.out
+*.swp
+*.swo
+.__*
