@@ -1,0 +1,12 @@
+com.android.dx.command.Hello	<init>:()V	000a	3,6	0
+com.android.dx.command.Hello	<init>:()V	0000	52	1
+com.android.dx.command.Hello	<init>:()V	000b	33	0
+com.android.dx.command.Hello	<init>:()V	000c	6	0
+com.android.dx.command.Hello	main:([Ljava/lang/String;)V	0012	3,6	0
+com.android.dx.command.Hello	main:([Ljava/lang/String;)V	0019	56,6	0
+com.android.dx.command.Hello	main:([Ljava/lang/String;)V	0000	46	1
+com.android.dx.command.Hello	main:([Ljava/lang/String;)V	001a	56,6	0
+com.android.dx.command.Hello	main:([Ljava/lang/String;)V	0003	5	1
+com.android.dx.command.Hello	main:([Ljava/lang/String;)V	0005	50	1
+com.android.dx.command.Hello	main:([Ljava/lang/String;)V	0013	33	0
+com.android.dx.command.Hello	main:([Ljava/lang/String;)V	001b	6	0
